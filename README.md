@@ -3,10 +3,10 @@
 👨 I’m interested in:
 - 💻 Programming (duh)
 - 🔖 Reading
-- ✍️ Blogging
+- ✍️ Writing
 - 👾 Gaming
 
-💡 I’m currently learning *HTML* & *CSS*.
+💡 I’m currently learning *JavaScript*.
 
 💞️ I’m looking to collaborate on: nothing at the moment 😢.
 
