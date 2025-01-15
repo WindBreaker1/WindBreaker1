@@ -16,7 +16,7 @@ I like to make cool stuff!
 
 🔗Projects
 
-- [My Personal Website](https://zaalmoxxis.com/)
+- [My Personal Website/Blog](https://zaalmoxxis.com/)
 - [List of Projects](https://zaalmoxxis.com/projects)
 
 ![anime-plant](https://media3.giphy.com/media/451shsqh5nJ9UqDElR/giphy.webp?cid=790b76111yhwnvwycizh75hwztpatsv2i4dvmg4kgvfrfnec&ep=v1_gifs_search&rid=giphy.webp&ct=g)
