@@ -1,12 +1,16 @@
 # 👋 Hi, I’m @WindBreaker1
 
-👨 I’m interested in:
-- 💻 Programming (duh)
-- 🔖 Reading
-- ✍️ Writing
-- 👾 Gaming
+Technologies:
 
-💡 I’m currently learning *JavaScript*.
+- HTML
+- CSS
+- JavaScript
+- React
+- NodeJS
+- MongoDB
+- NextJS
+- Git & GitHub
+- Python
 
 <!---
 WindBreaker1/WindBreaker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
